@@ -1,4 +1,4 @@
-# SQL Injection Authentication Bypass Report
+# SOURCECODESTER EMPLOYEE MANAGEMENT SYSTEM - SQL Injection Authentication Bypass
 
 ### Title: SQL Injection Authentication Bypass
 ### Affected Component: /process/aprocess.php
