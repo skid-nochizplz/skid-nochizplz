@@ -1,4 +1,4 @@
-# Employee Login SQL Injection Authentication Bypass Report
+# SOURCECODESTER EMPLOYEE MANAGEMENT SYSTEM - Employee Login SQL Injection Authentication Bypass Report
 
 ### Title: Employee Login SQL Injection Authentication Bypass
 ### Affected Component: /process/eprocess.php
