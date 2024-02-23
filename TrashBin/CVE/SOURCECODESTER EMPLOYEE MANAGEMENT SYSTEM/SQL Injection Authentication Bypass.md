@@ -1,9 +1,9 @@
-# SQL Injection Authentication Bypass Report
+# SOURCECODESTER EMPLOYEE MANAGEMENT SYSTEM - SQL Injection Authentication Bypass
 
 ### Title: SQL Injection Authentication Bypass
 ### Affected Component: /process/aprocess.php
-### CWE-287: Improper Authentication
-### CVSS Base Score: 7.5
+### CWE-287: Improper Authentication 
+### CVSS Base Score: 7.5 (Self-rated with the assistance of an online CVSS calculator)
 
 ### Impact:
 SQL injection authentication bypass poses a significant threat by enabling unauthorized access to the system, allowing attackers to exploit vulnerabilities in authentication mechanisms. This can lead to severe consequences including unauthorized entry into sensitive areas, exposure of confidential data, manipulation of system integrity, reputational damage, and potential regulatory compliance violations. The exploit's ability to circumvent authentication safeguards undermines the confidentiality, integrity, and availability of the system, emphasizing the critical need for robust security measures and prompt mitigation of SQL injection vulnerabilities to safeguard against these multifaceted risks.
