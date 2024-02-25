@@ -23,7 +23,7 @@ email = '%20UNION%20SELECT%201%20AS%20id%2c%20'NoChizPlz'%20AS%20username%2c%20'
 ```
 
 ### Proof with Video:
-![Vulnerability Proof](https://github.com/skid-nochizplz/skid-nochizplz/raw/main/TrashBin/CVE/keerti1924%20PHP-MYSQL-User-Login-System/SQLI%20Auth%20Proof.mov)
+![Vulnerability Proof](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/keerti1924%20PHP-MYSQL-User-Login-System/SQLI%20Auth%20Proof.gif?raw=true)
 
 ## Remediation
 
