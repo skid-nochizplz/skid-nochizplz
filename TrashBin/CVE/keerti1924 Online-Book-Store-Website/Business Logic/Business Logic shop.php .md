@@ -37,7 +37,7 @@ product_quantity=1&product_name=The+Bookshop&product_price=1&product_image=book+
 ```
 
 ### Proof with Screenshot
-[Screenshot](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/keerti1924%20Online-Book-Store-Website/Business%20Logic/Business%20Logic%20shop.php%20proof%20.png?raw=true)
+![Screenshot](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/keerti1924%20Online-Book-Store-Website/Business%20Logic/Business%20Logic%20shop.php%20proof%20.png?raw=true)
 
 ## Remidiation
 To mitigate this issue, ensure that all price-related calculations are performed and verified on the server-side. Implement proper access controls and validation mechanisms to prevent unauthorized modifications to prices or other critical parameters during the purchase process.
