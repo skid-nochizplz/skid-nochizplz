@@ -13,7 +13,7 @@
 
 ## Publications
 
-I have contributed to cybersecurity by identifying and documenting several vulnerabilities. Here's a list of Common Vulnerabilities and Exposures (CVEs) I've discovered:
+ Here's a list of Common Vulnerabilities and Exposures (CVEs) I've discovered:
 
 - **CVE-2024-1871**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20EMPLOYEE%20MANAGEMENT%20SYSTEM/XSS%20Vulnerability%20in%20Project%20Assignment%20Report.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1871)
 
