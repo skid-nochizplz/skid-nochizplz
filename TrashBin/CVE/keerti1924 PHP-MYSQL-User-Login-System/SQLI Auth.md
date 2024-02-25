@@ -4,6 +4,7 @@
 [PHP-MYSQL-User-Login-System](https://github.com/keerti1924/PHP-MYSQL-User-Login-System)
 
 ## Impact
+The login.php script in keerti1924's PHP-MYSQL-User-Login-System is vulnerable to SQL injection (SQLi) attacks. Exploiting this flaw, attackers can bypass authentication by injecting malicious SQL code via the 'email' parameter. By crafting a UNION SELECT statement, an attacker can manipulate the query to retrieve unauthorized data, potentially compromising user credentials or gaining unauthorized access to the application. Moreover, to successfully exploit this vulnerability, the 'password' parameter must match the hash of the email payload password retrieved via the UNION SELECT statement, further amplifying the risk of unauthorized access.
 
 ## Proof of Concept
 Step 1: Visit the /login.php
@@ -26,6 +27,7 @@ email = '%20UNION%20SELECT%201%20AS%20id%2c%20'NoChizPlz'%20AS%20username%2c%20'
 ![Vulnerability Proof](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/keerti1924%20PHP-MYSQL-User-Login-System/SQLI%20Auth%20Proof.gif?raw=true)
 
 ## Remediation
+To mitigate this SQL injection vulnerability, it is recommended to implement proper input validation and parameterized queries to prevent untrusted data from being directly interpreted as part of SQL commands. Additionally, enforcing principle of least privilege and ensuring strong authentication mechanisms can help minimize the impact of potential exploitation.
 
 ## CWE
 [CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')](https://cwe.mitre.org/data/definitions/89.html)
