@@ -7,9 +7,9 @@
 The login.php script in keerti1924's PHP-MYSQL-User-Login-System is vulnerable to SQL injection (SQLi) attacks. Exploiting this flaw, attackers can bypass authentication by injecting malicious SQL code via the 'email' parameter. By crafting a UNION SELECT statement, an attacker can manipulate the query to retrieve unauthorized data, potentially compromising user credentials or gaining unauthorized access to the application. Moreover, to successfully exploit this vulnerability, the 'password' parameter must match the hash of the email payload password retrieved via the UNION SELECT statement, further amplifying the risk of unauthorized access.
 
 ## Proof of Concept
-Step 1: Visit the /login.php
-Step 2: Open Browser Console
-Step 3: Run [SQLI Auth POC](https://raw.githubusercontent.com/skid-nochizplz/skid-nochizplz/main/TrashBin/CVE/keerti1924%20PHP-MYSQL-User-Login-System/SQLI%20Auth%20POC.js)
+Step 1: Visit the /login.php\
+Step 2: Open Browser Console\
+Step 3: Run [SQLI Auth POC](https://raw.githubusercontent.com/skid-nochizplz/skid-nochizplz/main/TrashBin/CVE/keerti1924%20PHP-MYSQL-User-Login-System/SQLI%20Auth%20POC.js)\
 Step 4: User will be redirected to home.php
 
 ## HTTP Request Example
