@@ -7,10 +7,10 @@
 The shop.php script in keerti1924's Online-Book-Store-Website is vulnerable to a business logic flaw. By manipulating the 'product_price' parameter during the purchase process, authenticated users can change the price of items in their shopping cart to an arbitrary value, potentially leading to financial losses for the business.
 
 ## Proof of Concept
-Step 1: Login as a normal user
-Step 2: Add a book to the cart and intercept the request.
-Step 3: Modify the value of the 'product_price' parameter to the desired price.
-Step 4: Observe that the item's price in the cart has been changed accordingly.
+Step 1: Login as a normal user\
+Step 2: Add a book to the cart and intercept the request.\
+Step 3: Modify the value of the 'product_price' parameter to the desired price.\
+Step 4: Observe that the item's price in the cart has been changed accordingly.\
 
 ## HTTP Request Example
 ```http request
