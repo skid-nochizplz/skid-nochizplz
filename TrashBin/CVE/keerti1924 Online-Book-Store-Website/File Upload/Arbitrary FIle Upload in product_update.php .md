@@ -7,12 +7,12 @@
 The product_update.php script in keerti1924's Online-Book-Store-Website allows for arbitrary file uploads, potentially leading to remote code execution or other security breaches. By exploiting this vulnerability, an authenticated admin user can upload malicious files, such as PHP scripts, to the server, allowing them to execute arbitrary code and compromise the system.
 
 ## Proof of Concept
-Step 1: Login as an admin
-Step 2: Go to products section
-Step 3: Edit any product
-Step 4: Choose any file to upload
-Step 5: Update book
-Step 6: The file will be stored in the /uploaded_img directory on the server.
+Step 1: Login as an admin\
+Step 2: Go to products section\
+Step 3: Edit any product\
+Step 4: Choose any file to upload\
+Step 5: Update book\
+Step 6: The file will be stored in the /uploaded_img directory on the server.\
 
 ## HTTP Request Example
 ```http request
