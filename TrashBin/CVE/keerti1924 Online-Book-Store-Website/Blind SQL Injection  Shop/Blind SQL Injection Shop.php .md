@@ -37,6 +37,7 @@ product_quantity=1&product_name=nochizplz'+OR+SLEEP(10)%23&product_price=123.00&
 ```
 
 ## Proof with screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/1e916bbb-bfbe-4b7a-9994-2c7bc120f567)
 
 
 ## Remidiation
