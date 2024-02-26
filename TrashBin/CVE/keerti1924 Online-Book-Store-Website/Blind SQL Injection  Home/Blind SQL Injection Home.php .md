@@ -36,6 +36,8 @@ add_to_cart=1&product_name=asdasd'+UNION+SELECT+SLEEP(10),NULL,NULL,NULL,NULL,NU
 ```
 
 ## Proof with screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/ed48126c-7fbc-4150-910d-438d81037bed)
+
 
 ## Remidiation
 To mitigate this issue, developers should implement proper input validation and parameterized queries to prevent SQL injection attacks. Additionally, limiting the privileges of the database user used by the application and enforcing least privilege principles can further reduce the impact of SQL injection vulnerabilities.
