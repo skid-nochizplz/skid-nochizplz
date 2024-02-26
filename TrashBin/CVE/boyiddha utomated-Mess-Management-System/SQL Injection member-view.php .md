@@ -30,6 +30,8 @@ Cookie: [REDACTED]
 Connection: close
 ```
 ## Proof with Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/66a63326-cc2d-47fe-bb8c-d86ff8256ea7)
+
 
 
 ## Remidiation
