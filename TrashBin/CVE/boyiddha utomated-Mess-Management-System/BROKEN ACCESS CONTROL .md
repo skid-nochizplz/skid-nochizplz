@@ -14,6 +14,7 @@ Step 3: Despite being a regular member, you'll find unrestricted access to the a
 
 ## Proof with video
 ![VIDEO](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/boyiddha%20utomated-Mess-Management-System/BOKEN%20ACCESS%20CONTROL%20PROOF.gif?raw=true)
+
 ## Remidiation
 To rectify this issue, developers should implement proper access controls, ensuring that only authorized users can access administrative features. This can be achieved by employing role-based access control mechanisms and enforcing strict authentication checks on sensitive endpoints. Additionally, comprehensive security testing and code reviews should be conducted to identify and address any existing access control vulnerabilities effectively.
 
