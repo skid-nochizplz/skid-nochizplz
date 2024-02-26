@@ -35,6 +35,8 @@ Connection: close
 userType=Admin&useremail='+or+1%3d1+%23+limit+1+%23&password=NoChizPlz&login=
 ```
 ## Proof with Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/6c3ed090-6e14-40a4-94ba-9ca5439aaeef)
+
 
 ## Remidiation
 To mitigate this vulnerability, developers should implement proper input validation and parameterized queries to prevent SQL injection attacks. Additionally, enforcing the principle of least privilege by limiting the permissions of database users and implementing robust authentication mechanisms can help prevent unauthorized access to sensitive areas of the application.
