@@ -68,6 +68,8 @@ Update
 
 ```
 ## Proof with Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/5c302e45-bcd3-4fc8-b03f-a95ce19d0b94)
+
 
 ## Remidiation
 To mitigate this issue, developers should implement proper input validation and output encoding to prevent the execution of malicious scripts. Additionally, the application should sanitize user inputs to neutralize any potentially harmful content before rendering it in the browser.
