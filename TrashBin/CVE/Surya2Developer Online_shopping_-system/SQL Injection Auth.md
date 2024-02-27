@@ -50,3 +50,4 @@ email=nochizplz%40nochizplz.com&password=nochizplz'+or+1%3d1+limit+1%23
 ```
 
 ## Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/160950031/83d29474-9f85-418d-82f5-bdb6a5e23067)
