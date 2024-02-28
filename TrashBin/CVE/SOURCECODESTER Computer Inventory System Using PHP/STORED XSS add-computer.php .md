@@ -1,4 +1,4 @@
-# SOURCECODESTER / Barangay Population System - update-resident.php STORED XSS
+# SOURCECODESTER / Computer Inventory System - add-computer.php STORED XSS
 
 ## **Credits**
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>
