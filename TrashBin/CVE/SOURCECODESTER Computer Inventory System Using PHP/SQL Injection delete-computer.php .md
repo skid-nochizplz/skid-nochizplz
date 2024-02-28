@@ -1,4 +1,4 @@
-# SOURCECODESTER / Barangay Population System - delete-computer.php SQL Injection
+# SOURCECODESTER / Computer Inventory System - delete-computer.php SQL Injection
 
 ## **Credits**
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>
@@ -26,3 +26,4 @@ Host:
 ```
 
 ## Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/160950031/208c7f2f-c5c3-46e6-a96d-2f33ef67a6a1)
