@@ -35,3 +35,4 @@ tbl_resident_id=1&full_name=%3e%3cimg%20src%3dx%20onerror%3dalert('NoChizPlZ')%3
 ```
 
 ## Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/160950031/e212dfce-f382-4721-be0a-a8fe9bea6a24)
