@@ -5,7 +5,7 @@
 
 ## Vendor Homepage:
 > https://www.sourcecodester.com/php/17165/computer-inventory-system-using-php-and-mysql-source-code.html
-> 
+
 ## Affected Component
 > /endpoint/delete-computer.php
 
