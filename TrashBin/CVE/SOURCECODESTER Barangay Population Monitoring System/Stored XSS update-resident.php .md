@@ -4,8 +4,8 @@
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>
 
 ## Vendor Homepage:
-> https://www.sourcecodester.com/php/17109/barangay-population-monitoring-system-using-php-mysql-and-chartjs-source-code.html
-
+> https://www.sourcecodester.com/php/17165/computer-inventory-system-using-php-and-mysql-source-code.html
+> 
 ## Affected Component
 > /endpoint/update-resident.php
 
