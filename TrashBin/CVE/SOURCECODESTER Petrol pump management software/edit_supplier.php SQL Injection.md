@@ -1,4 +1,4 @@
-# SOURCECODESTER / Petrol pump management software - edit_supplier.php SQL Injection Auth Bypass
+# SOURCECODESTER / Petrol pump management software - edit_supplier.php Unauthenticated SQL Injection
 
 ## **Credits**
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>
