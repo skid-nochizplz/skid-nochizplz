@@ -1,4 +1,4 @@
-# SOURCECODESTER / Petrol pump management software - login_crud.php SQL Injection
+# SOURCECODESTER / Petrol pump management software - login_crud.php SQL Injection Auth Bypass
 
 ## **Credits**
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>
