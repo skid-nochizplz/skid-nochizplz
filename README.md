@@ -13,7 +13,7 @@
 
 ## Publications
 
- Here's a list of Common Vulnerabilities and Exposures (CVEs) I've discovered:
+Below is a list of Common Vulnerabilities and Exposures (CVEs) I've discovered. Take note, there's nothing special here—these are unremarkable findings, simply identified in the wild. Most of these vulnerabilities stem from developers not prioritizing security.
 
 - **CVE-2024-1871**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20EMPLOYEE%20MANAGEMENT%20SYSTEM/XSS%20Vulnerability%20in%20Project%20Assignment%20Report.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1871)
 
