@@ -7,7 +7,7 @@
 > https://github.com/MAGESH-K21/Online-College-Event-Hall-Reservation-System/
 
 ## Affected Component
-> /book_history.php
+> /admin/book_history.php
 
 ## Code
 ```php
