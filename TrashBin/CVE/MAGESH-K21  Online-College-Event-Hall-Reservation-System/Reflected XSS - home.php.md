@@ -25,3 +25,4 @@ Host: 127.0.0.1
 
 ## Screenshot
 
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/d1e8e49c-0e17-4532-a7d4-0759555979dd)
