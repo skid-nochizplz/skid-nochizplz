@@ -5,7 +5,7 @@
 
 ## Vendor Homepage:
 > https://github.com/MAGESH-K21/Online-College-Event-Hall-Reservation-System/
->
+
 ## Affected Component
 > /home.php
 > /config/logincheck.php
