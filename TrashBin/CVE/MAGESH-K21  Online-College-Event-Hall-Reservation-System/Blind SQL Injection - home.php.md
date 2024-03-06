@@ -40,3 +40,4 @@ Host: [REDACTED]
 
 ## Screenshot
 
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/e12c9931-b67c-4d05-af2b-772363f82d1c)
