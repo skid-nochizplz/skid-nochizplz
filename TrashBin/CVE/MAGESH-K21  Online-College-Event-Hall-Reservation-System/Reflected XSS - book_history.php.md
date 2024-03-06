@@ -29,4 +29,5 @@ Host: [REDACTED]
 ```
 
 ## Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/0c9e0749-9d44-4742-b12a-1c2601211053)
 
