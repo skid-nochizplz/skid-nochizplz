@@ -15,35 +15,59 @@
 
 Below is a list of Common Vulnerabilities and Exposures (CVEs) I've discovered. Take note, there's nothing special here—these are unremarkable findings, simply identified in the wild. Most of these vulnerabilities stem from developers not prioritizing security.
 
-- **CVE-2024-1871**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20EMPLOYEE%20MANAGEMENT%20SYSTEM/XSS%20Vulnerability%20in%20Project%20Assignment%20Report.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1871)
+- **CVE-2024-1871**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1871)
 
-- **CVE-2024-1876**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20EMPLOYEE%20MANAGEMENT%20SYSTEM/Employee%20Project%20SQL%20Injection%20Update.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1876)
+- **CVE-2024-1876**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1876)
 
-- **CVE-2024-1877**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20EMPLOYEE%20MANAGEMENT%20SYSTEM/Employee%20Leave%20Cancel%20SQL%20Injection.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-1877)
+- **CVE-2024-1877**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-1877)
 
-- **CVE-2024-1878**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20EMPLOYEE%20MANAGEMENT%20SYSTEM/IDOR%20Employee%20Profile.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1878)
+- **CVE-2024-1878**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1878)
 
-- **CVE-2024-1971**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/Surya2Developer%20Online_shopping_-system/SQL%20Injection%20Auth.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1971)
+- **CVE-2024-1971**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-1971)
 
-- **CVE-2024-2058**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/Surya2Developer%20Online_shopping_-system/SOURCECODESTER%20Petrol%20pump%20management%20software/Unauthenticated%20Arbitrary%20File%20Upload.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2058)
+- **CVE-2024-2058**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2058)
 
-- **CVE-2024-2059**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Petrol%20pump%20management%20software/service_crud.php%20Unauthenticated%20Arbitrary%20File%20Upload.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2059)
+- **CVE-2024-2059**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2059)
 
-- **CVE-2024-2060**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Petrol%20pump%20management%20software/login_crud.php%20SQL%20Injection.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2060)
+- **CVE-2024-2060**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2060)
 
-- **CVE-2024-2061**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Petrol%20pump%20management%20software/edit_supplier.php%20SQL%20Injection.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2061)
+- **CVE-2024-2061**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2061)
 
-- **CVE-2024-2062**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Petrol%20pump%20management%20software/edit_categories.php%20SQL%20Injection.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2062)
+- **CVE-2024-2062**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2062)
 
-- **CVE-2024-2063**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Petrol%20pump%20management%20software/profile_crud.php%20Unauthenticated%20STORED%20XSS.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2063)
+- **CVE-2024-2063**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2063)
 
-- **CVE-2024-2065**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Barangay%20Population%20Monitoring%20System/Stored%20XSS%20update-resident.php%20.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2065)
+- **CVE-2024-2065**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2065)
 
-- **CVE-2024-2066**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Computer%20Inventory%20System%20Using%20PHP/STORED%20XSS%20add-computer.php%20.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2066)
+- **CVE-2024-2066**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2066)
 
-- **CVE-2024-2067**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Computer%20Inventory%20System%20Using%20PHP/SQL%20Injection%20delete-computer.php%20.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2067)
+- **CVE-2024-2067**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2067)
 
-- **CVE-2024-2068**: [POC](https://github.com/skid-nochizplz/skid-nochizplz/blob/main/TrashBin/CVE/SOURCECODESTER%20Computer%20Inventory%20System%20Using%20PHP/STORED%20XSS%20upadte-computer.php%20.md) | [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2068)
+- **CVE-2024-2068**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2068)
+- 
+- **CVE-2024-2264**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2264)
+- 
+- **CVE-2024-2267**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2267)
+- 
+- **CVE-2024-2268**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2268)
+- 
+- **CVE-2024-2269**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2269)
+- 
+- **CVE-2024-2270**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2270)
+- 
+- **CVE-2024-2271**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2271)
+- 
+- **CVE-2024-2272**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2272)
+- 
+- **CVE-2024-2281**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2281)
+- 
+- **CVE-2024-2282**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2282)
+- 
+- **CVE-2024-2283**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2283)
+- 
+- **CVE-2024-2284**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2284)
+- 
+- **CVE-2024-2285**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2285)
 
 
 <h3 align="left">Connect with me:</h3>
