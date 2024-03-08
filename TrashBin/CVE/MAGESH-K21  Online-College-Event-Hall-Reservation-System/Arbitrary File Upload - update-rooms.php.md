@@ -115,4 +115,5 @@ Content-Type: text/php
 ```
 
 ## Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/0fa570bb-ab97-4c4c-b0dc-099fbeff0680)
 
