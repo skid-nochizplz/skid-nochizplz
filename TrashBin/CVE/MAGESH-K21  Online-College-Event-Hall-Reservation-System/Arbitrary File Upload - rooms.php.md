@@ -112,4 +112,7 @@ Content-Type: text/php
 ```
 
 ## Screenshot
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/86bd7796-d148-4868-8bc0-065d5db33946)
+
+![image](https://github.com/skid-nochizplz/skid-nochizplz/assets/60700937/3a0fb55c-affc-4bb8-8537-8aa7d922a04a)
 
