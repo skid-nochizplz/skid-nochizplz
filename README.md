@@ -44,29 +44,29 @@ Below is a list of Common Vulnerabilities and Exposures (CVEs) I've discovered. 
 - **CVE-2024-2067**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2067)
 
 - **CVE-2024-2068**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2068)
-- 
+
 - **CVE-2024-2264**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2264)
-- 
+
 - **CVE-2024-2267**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2267)
-- 
+
 - **CVE-2024-2268**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2268)
-- 
+
 - **CVE-2024-2269**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2269)
-- 
+
 - **CVE-2024-2270**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2270)
-- 
+
 - **CVE-2024-2271**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2271)
-- 
+
 - **CVE-2024-2272**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2272)
-- 
+
 - **CVE-2024-2281**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2281)
-- 
+
 - **CVE-2024-2282**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2282)
-- 
+
 - **CVE-2024-2283**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2283)
-- 
+
 - **CVE-2024-2284**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2284)
-- 
+
 - **CVE-2024-2285**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2285)
 
 
