@@ -69,6 +69,53 @@ Below is a list of Common Vulnerabilities and Exposures (CVEs) I've discovered. 
 
 - **CVE-2024-2285**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2285)
 
+- **CVE-2024-2514**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2514)
+
+- **CVE-2024-2515**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2515)
+
+- **CVE-2024-2516**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2516)
+
+- **CVE-2024-2517**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2517)
+
+- **CVE-2024-2518**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2518)
+
+- **CVE-2024-2519**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2519)
+
+- **CVE-2024-2520**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2520)
+
+- **CVE-2024-2521**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2521)
+
+- **CVE-2024-2522**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2522)
+
+- **CVE-2024-2523**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2523)
+
+- **CVE-2024-2524**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2524)
+
+- **CVE-2024-2525**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2525)
+
+- **CVE-2024-2526**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2526)
+
+- **CVE-2024-2527**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2527)
+
+- **CVE-2024-2528**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2528)
+
+- **CVE-2024-2529**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2529)
+
+- **CVE-2024-2530**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2530)
+
+- **CVE-2024-2531**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2531)
+
+- **CVE-2024-2532**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2532)
+
+- **CVE-2024-2533**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2533)
+
+- **CVE-2024-2534**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2534)
+
+- **CVE-2024-2535**: [MITRE CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-2535)
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
