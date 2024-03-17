@@ -1,4 +1,4 @@
-# MAGESH-K21 / Online-College-Event-Hall-Reservation-System - Stored XSS add-file.php
+# SOURCECODESTER / File Manager App - Stored XSS add-file.php
 
 ## **Credits**
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>

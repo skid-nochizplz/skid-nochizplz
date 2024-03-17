@@ -1,4 +1,4 @@
-# MAGESH-K21 / Online-College-Event-Hall-Reservation-System - Arbitrary File Upload update-file.php
+# SOURCECODESTER / File Manager App - Arbitrary File Upload update-file.php
 
 ## **Credits**
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>
