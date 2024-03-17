@@ -4,7 +4,7 @@
 > Joshua Lictan (https://github.com/skid-nochizplz/skid-nochizplz)<br/>
 
 ## Vendor Homepage:
-> https://github.com/MAGESH-K21/Online-College-Event-Hall-Reservation-System/
+> https://www.sourcecodester.com/php/16919/file-manager-app-using-php-source-code.html
 
 ## Affected Component
 > /endpoint/update-file.php
